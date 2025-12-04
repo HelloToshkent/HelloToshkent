@@ -42,14 +42,12 @@
 
 ---
 
-## 📈 GitHub Statlar
-![Bekzod's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Aloqa
-- Instagram: [@yourusername](https://instagram.com/yourusername)  
-- Email: your.email@example.com  
+- Instagram: [@yourusername](https://instagram.com/_odiljonov_._)  
+- Email: behzododiljonov4@gmail.com 
 
 ---
 
