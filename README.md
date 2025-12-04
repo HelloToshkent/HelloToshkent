@@ -46,7 +46,7 @@
 ---
 
 ## 📫 Aloqa
-- Instagram: [@yourusername](https://instagram.com/_odiljonov_._)  
+- Instagram: [@_odiljonov_._](https://instagram.com/_odiljonov_._)  
 - Email: behzododiljonov4@gmail.com 
 
 ---
